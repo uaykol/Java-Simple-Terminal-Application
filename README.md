@@ -5,48 +5,48 @@ Please Open a java project from your IDE and drag the TerminalApplication folder
 
 Example to Show How it works
 
-COM>show
-clear	quit	ls	pwd	cd	
-COM>pwd
-Location : COM
-COM>ls
-string	number	
-COM>cd string
-COM/string>show
-length	reverse	upper	lower	
-COM/string>length hello
-5
-COM/string>len hello
-5
-COM/string>leng hello
-5
-COM/string>rev hello
-olleh
-COM/string>upper hello
-HELLO
-COM/string>up hello
-HELLO
-COM/string>lower HeLLo
-hello
-COM/string>cd ..
-COM>cd number
-COM/number>show
-addition	subtraction	division	multiplication	
-COM/number>add 3 5
-8
-COM/number>additi 7 8
-15
-COM/number>div 3 5
-0
-COM/number>div 7 2
-3
-COM/number>multip 7 2
-14
-COM/number>subt 12 7
-5
-COM/number>cd ..
-COM>cd string
-COM/string>pwd
-Location : COM/string
-COM/string>cd where
-There is no directory like where
+COM>show<br>
+clear	quit	ls	pwd	cd	<br>
+COM>pwd<br>
+Location : COM<br>
+COM>ls<br>
+string	number	<br>
+COM>cd string<br>
+COM/string>show<br>
+length	reverse	upper	lower	<br>
+COM/string>length hello<br>
+5<br>
+COM/string>len hello<br>
+5<br>
+COM/string>leng hello<br>
+5<br>
+COM/string>rev hello<br>
+olleh<br>
+COM/string>upper hello<br>
+HELLO<br>
+COM/string>up hello<br>
+HELLO<br>
+COM/string>lower HeLLo<br>
+hello<br>
+COM/string>cd ..<br>
+COM>cd number<br>
+COM/number>show<br>
+addition	subtraction	division	multiplication<br>	
+COM/number>add 3 5<br>
+8<br>
+COM/number>additi 7 8<br>
+15<br>
+COM/number>div 3 5<br>
+0<br>
+COM/number>div 7 2<br>
+3<br>
+COM/number>multip 7 2<br>
+14<br>
+COM/number>subt 12 7<br>
+5<br>
+COM/number>cd ..<br>
+COM>cd string<br>
+COM/string>pwd<br>
+Location : COM/string<br>
+COM/string>cd where<br>
+There is no directory like where<br>
