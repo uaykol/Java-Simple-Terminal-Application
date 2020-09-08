@@ -29,7 +29,7 @@ HELLO<br>
 COM/string>lower HeLLo<br>
 hello<br>
 COM/string>cd ..<br>
-COM>addition 5<br>
+COM>addition 5 7<br>
 This Command only available for COM/number directory<br>
 COM>cd number<br>
 COM/number>show<br>
